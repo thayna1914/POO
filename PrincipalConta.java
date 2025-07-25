@@ -25,10 +25,23 @@ public class PrincipalConta{
          
         System.out.println("----------------------------");
 
+
+        a.setNomeCliente("Delfino");
+        System.out.println(a);System.out.println(a);
+
+
+        t.setNomeCliente("Evellyn");
+         System.out.println(a);System.out.println(t);
+
+
+        p.setNomeCliente("Ernesto");
+        System.out.println(p);
         
+    
 
 
 
 
     }
 }
+
